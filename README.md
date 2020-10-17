@@ -15,3 +15,5 @@ Create a branch is fast and simple.
 Add a new line.
 
 use fast forward
+
+now i am doing the job
