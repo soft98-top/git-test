@@ -19,3 +19,5 @@ use fast forward
 now i am doing the job
 
 origin user modify the file
+
+Another user just modify the file
