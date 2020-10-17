@@ -10,5 +10,5 @@
 
 create a new branch named dev
 
-Create a branch is fast and simple.
+Create a branch is fast & simple.
 
