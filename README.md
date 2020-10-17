@@ -9,3 +9,6 @@
 ## new branch
 
 create a new branch named dev
+
+Create a branch is fast and simple.
+
