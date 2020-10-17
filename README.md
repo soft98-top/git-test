@@ -5,3 +5,7 @@
 ## 进行修改操作
 
 ​	git是一个分布式版本控制软件
+
+## new branch
+
+create a new branch named dev
