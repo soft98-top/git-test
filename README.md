@@ -17,3 +17,5 @@ Add a new line.
 use fast forward
 
 now i am doing the job
+
+Another user just modify the file
